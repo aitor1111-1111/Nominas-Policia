@@ -1,0 +1,24 @@
+CALCULADORA DE NÓMINAS - POLICÍA LOCAL LPGC
+
+Publicación en GitHub Pages:
+1. Crear un repositorio nuevo llamado: Nominas-Policia
+2. Subir TODOS los archivos de esta carpeta a la raíz del repositorio.
+3. Hacer Commit changes en la rama main.
+4. Ir a Settings > Pages.
+5. En Build and deployment elegir Deploy from a branch.
+6. Seleccionar Branch: main y Folder: /(root), y pulsar Save.
+7. Esperar a que GitHub Pages publique la web.
+
+URL prevista:
+https://aitor1111-1111.github.io/Nominas-Policia/
+
+Instalación en Android:
+1. Abrir la URL en Google Chrome.
+2. Menú de tres puntos.
+3. Elegir Instalar aplicación o Añadir a pantalla de inicio.
+
+Archivos:
+- index.html: aplicación.
+- manifest.webmanifest: configuración instalable.
+- sw.js: caché para funcionamiento tipo aplicación.
+- icon-192.png e icon-512.png: iconos.
