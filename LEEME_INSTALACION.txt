@@ -1,0 +1,21 @@
+CALCULADORA DE NÓMINAS · POLICÍA LOCAL LPGC · 2026 · VERSIÓN 2.0
+
+CONTENIDO
+- index.html: aplicación web.
+- manifest.webmanifest: configuración instalable (PWA).
+- sw.js: caché y funcionamiento sin conexión tras la primera carga.
+- icon-192.png e icon-512.png: iconos de la aplicación.
+
+PUBLICAR EN GITHUB PAGES
+1. Descarga y extrae este ZIP.
+2. Abre el repositorio Nominas-Policia en GitHub.
+3. En la raíz del repositorio, sube los seis archivos y confirma el commit en la rama configurada para GitHub Pages.
+4. En Settings > Pages, selecciona Deploy from a branch y la rama/carpeta raíz que estés utilizando (habitualmente main / root).
+5. Espera a que termine el despliegue y abre: https://aitor1111-1111.github.io/Nominas-Policia/
+6. En Android, abre esa dirección con Chrome y usa el menú ⋮ > Añadir a pantalla de inicio / Instalar aplicación.
+
+IMPORTANTE
+- La aplicación calcula simulaciones orientativas; verifica las cuantías y bases con Recursos Humanos antes de tomar decisiones económicas.
+- El historial se guarda en el almacenamiento local del navegador/dispositivo. No se sincroniza automáticamente entre móviles ni navegadores.
+- El modo sin conexión funciona después de abrir la aplicación al menos una vez con conexión.
+- Si ya había una versión anterior instalada, cierra la aplicación y vuelve a cargarla para actualizar la caché.
