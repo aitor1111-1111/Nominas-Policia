@@ -1,0 +1,24 @@
+{
+  "name": "Calculadora de Nóminas · Policía Local LPGC",
+  "short_name": "Nóminas Policía",
+  "description": "Calculadora de nóminas de la Policía Local del Ayuntamiento de Las Palmas de Gran Canaria.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f7fb",
+  "theme_color": "#102b51",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
